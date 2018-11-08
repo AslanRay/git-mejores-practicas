@@ -1,6 +1,0 @@
-Nombre: 		Raymundo Leon Viera
-Edad: 			29
-Nacionalidad: 		Mexicano
-Originario de: 		Tijuana, Baja California
-Estudios:		Ing. en desarrollo de software
-Profesión:		Mobile developer
